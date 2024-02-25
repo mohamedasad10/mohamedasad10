@@ -4,7 +4,7 @@
 <h3 align="center">Computer Science Student at University of the Western Cape</h3>
 
 
-- 📫 How to reach me **mohamedasad11914@gmail.com**
+- 📫 Email: **mohamedasad11914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
