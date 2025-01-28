@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Asad</h1>
-<h3 align="center">Final Year Computer Science Student at University of the Western Cape</h3>
+<h3 align="center">BSc (Hons) Computer Science Candidate at University of the Western Cape</h3>
 
 
 - 📫 Email: **mohamedasad11914@gmail.com**
