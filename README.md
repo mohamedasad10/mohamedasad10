@@ -45,42 +45,10 @@
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
     </a>
-    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/XAMPP_logo.png/640px-XAMPP_logo.png" alt="XAMPP" width="40" height="40"/> 
-    </a>
 </p>
 
-<h3 align="left">About Me:</h3>
-<p>
-    I'm a passionate software engineering student working on multiple projects in both front-end and back-end development. I love creating impactful, user-centered applications and continuously improving my coding skills.
-</p>
-
-<h3 align="left">Current Projects:</h3>
-<ul>
-    <li><b>Banking App:</b> A full-stack web application featuring deposit, withdrawal, and fund transfer functionalities, built using JavaScript, PHP, and MySQL.</li>
-    <li><b>Feedem Now:</b> A food ordering platform designed to make campus life easier by pre-ordering meals through a seamless web interface.</li>
-</ul>
-
-<h3 align="left">My Goals:</h3>
-<ul>
-    <li>Enhance my web development skills and create intuitive, responsive designs.</li>
-    <li>Explore AR/VR technologies and develop innovative urban planning tools for my thesis project.</li>
-    <li>Contribute to open-source projects and collaborate with the global tech community.</li>
-</ul>
-
-<h3 align="left">GitHub Stats:</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedasad10&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mohamedasad10" />
-</p>
-
-<h3 align="left">Pinned Repositories:</h3>
-<p>
-    <a href="https://github.com/mohamedasad10/BankingApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedasad10&repo=BankingApp" alt="BankingApp"/>
-    </a>
-    <a href="https://github.com/mohamedasad10/Feedem-Now">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedasad10&repo=Feedem-Now" alt="Feedem Now"/>
-    </a>
 </p>
 
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
