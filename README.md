@@ -51,4 +51,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedasad10&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mohamedasad10" />
 </p>
 
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: block;">
+
