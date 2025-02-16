@@ -51,6 +51,9 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
     </a>
+    <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Windows_Subsystem_for_Linux_logo.svg" alt="wsl" width="40" height="40"/> 
+    </a>
 </p>
 
 <p>
