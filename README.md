@@ -52,11 +52,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
