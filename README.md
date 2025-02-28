@@ -54,7 +54,7 @@
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="filter: brightness(0) invert(1);"/>
 </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
