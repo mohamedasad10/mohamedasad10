@@ -15,9 +15,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
-    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -57,12 +57,9 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     </a>
-    <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/3ds_Max_Logo.png" alt="3ds Max" width="40" height="40"/>
-    </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50"/>
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
 </p>
 
 <p>
