@@ -57,6 +57,12 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     </a>
+    <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/3ds_Max_Logo.png" alt="3ds Max" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    </a>
 </p>
 
 <p>
