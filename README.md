@@ -1,82 +1,83 @@
 <h1 align="center">Hi 👋, I'm Mohamed Asad</h1>
-<h3 align="center">BSc (Hons) Computer Science Candidate at University of the Western Cape</h3>
+<h3 align="center">BSc (Hons) Computer Science Candidate | Software Engineer in the Making</h3>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
 </p>
 
-### 📧 Contact Me:
-- **Email:** [mohamedasad11914@gmail.com](mailto:mohamedasad11914@gmail.com)
+---
 
-### 🌍 Connect With Me:
+### 🌟 About Me
+- 🎓 **Final-Year Computer Science (Hons) Candidate** at the **University of the Western Cape**  
+- 💻 Passionate about **Software Engineering, Full-Stack Development, and AR/VR**  
+- 🏗️ Building **innovative projects** to **solve real-world problems**  
+- 🚀 Open to **exciting opportunities** in **Software Engineering & Development**  
+- 📩 Reach me at **mohamedasad11914@gmail.com**  
+
+---
+
+### 🔗 Connect with Me
 <p align="left">
     <a href="https://www.linkedin.com/in/mabandarkar/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
 
 ---
 
-### 🚀 Languages & Tools:
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-    </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> 
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="filter: brightness(0) invert(1);"/>
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-    </a>
+### 🛠️ Tech Stack & Tools  
+#### **Languages & Frameworks**
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### **Databases & Backend**
+<p align="left">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+#### **Tools & Platforms**
+<p align="left">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedasad10&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mohamedasad10" />
+### 📊 GitHub Stats
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedasad10&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedasad10&show_icons=true&layout=compact&hide=jupyter%20notebook&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-💡 **Let’s Connect!** Feel free to reach out for collaborations, job opportunities, or just to chat about tech! 🚀
+### 🎯 What I'm Working On  
+- 🚀 **Building a full-stack banking app**  
+- 🔥 **Creating an AR/VR urban planning viewer**  
+- 🎮 **Developing a 'Who Wants to Be a Millionaire' game in Unity**  
 
 ---
 
-This version keeps **all your links**, improves the **structure**, and **adds Unity** while making the README more visually appealing for recruiters. Let me know if you want any more changes! 🔥
+### 🚀 Let's Connect!  
+📧 **Email:** mohamedasad11914@gmail.com  
+💼 **LinkedIn:** [mabandarkar](https://www.linkedin.com/in/mabandarkar/)  
+
+---
+
+⭐ **Fun Fact:** I love **football** and tech! Let's talk **software engineering & gaming** ⚽💻  
+
+---
+
