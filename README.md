@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 **Final-Year Computer Science (Hons) Candidate** at the **University of the Western Cape**  
+- 🎓 **BSc Honours Computer Science Candidate** at the **University of the Western Cape**  
 - 💻 Passionate about **Software Engineering, Full-Stack Development, and AR/VR**  
 - 🏗️ Building **innovative projects** to **solve real-world problems**  
 - 🚀 Open to **exciting opportunities** in **Software Engineering & Development**  
@@ -102,8 +102,8 @@
 
 ### 🎯 What I'm Working On  
 - 🚀 **Building a full-stack banking app**  
-- 🔥 **Creating an AR/VR urban planning viewer**  
-- 🎮 **Developing a 'Who Wants to Be a Millionaire' game in Unity**  
+- 🔥 **Creating an AR/VR urban planning viewer for my Honours Theses Project**  
+- 🎮 **Developing a game in Unity**  
 
 ---
 
@@ -113,7 +113,7 @@
 
 ---
 
-⭐ **Fun Fact:** I love **football** and tech! Let's talk **software engineering & gaming** ⚽💻  
+⭐ **Fun Fact:** I love **any kind of sport** and tech! Let's talk **software engineering & gaming** ⚽💻  
 
 ---
 
