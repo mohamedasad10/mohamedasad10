@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Asad</h1>
 <h3 align="center">BSc (Hons) Computer Science Candidate | Software Engineer in the Making</h3>
 
-<p align="center">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
-</p>
-
 ---
 
 ### 🌟 About Me
@@ -116,4 +112,8 @@
 ⭐ **Fun Fact:** I love **any kind of sport** and tech! Let's talk **software engineering & gaming** ⚽💻  
 
 ---
+
+<p align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
+</p>
 
