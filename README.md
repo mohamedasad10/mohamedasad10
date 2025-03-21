@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 - 🎓 **BSc Honours Computer Science Candidate** at the **University of the Western Cape**  
-- 💻 Passionate about **Software Engineering, Full-Stack Development, and AR/VR**  
+- 💻 Passionate about **Software Engineering & Full-Stack Development**  
 - 🏗️ Building **innovative projects** to **solve real-world problems**  
 - 🚀 Open to **exciting opportunities** in **Software Engineering & Development**  
 - 📩 Reach me at **mohamedasad11914@gmail.com**  
