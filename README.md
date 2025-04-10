@@ -88,11 +88,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamedasad10&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedasad10&show_icons=true&layout=compact&hide=jupyter%20notebook&theme=radical" alt="Top Languages"/>
-</p>
+
 
 ---
 
