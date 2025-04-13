@@ -8,7 +8,10 @@
 - 💻 Passionate about **Software Engineering & Full-Stack Development**  
 - 🏗️ Building **innovative projects** to **solve real-world problems**  
 - 🚀 Open to **exciting opportunities** in **Software Engineering & Development**  
-- 📩 Reach me at **mohamedasad11914@gmail.com**  
+- 📩 Reach me at **mohamedasad11914@gmail.com**
+
+- Honours Project: SmartCity AR – Augmented Reality Urban Planning Visualization
+Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
 
 ---
 
