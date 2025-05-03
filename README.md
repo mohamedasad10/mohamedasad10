@@ -65,6 +65,9 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     <a href="https://httpd.apache.org/" target="_blank">
         <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
     </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
 </p>
 
 #### **Tools & Platforms**
@@ -89,6 +92,61 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     </a>
     <a href="https://unity.com/" target="_blank">
         <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+    </a>
+    <!-- Chrome DevTools -->
+    <a href="https://developer.chrome.com/docs/devtools/" target="_blank">
+    <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <!-- XAMPP -->
+    <a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+    </a>
+    <!-- SSH -->
+    <a href="https://www.ssh.com/academy/ssh" target="_blank">
+    <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </a>
+    <!-- WSL -->
+    <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
+    <img src="https://img.shields.io/badge/WSL-008080?style=for-the-badge&logo=windows&logoColor=white"/>
+    </a>
+    <!-- Visual Studio 2022 -->
+<a href="https://visualstudio.microsoft.com/vs/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</a>
+
+<!-- Visual Studio -->
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+<!-- Autodesk -->
+<a href="https://www.autodesk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</a>
+
+<!-- 3ds Max -->
+<a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
+    <img src="https://img.shields.io/badge/3ds_Max-0176C3?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</a>
+
+<!-- Photopea -->
+<a href="https://www.photopea.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white"/>
+</a>
+
+<!-- VR -->
+<a href="https://en.wikipedia.org/wiki/Virtual_reality" target="_blank">
+    <img src="https://img.shields.io/badge/Virtual_Reality-0A0A0A?style=for-the-badge&logo=oculus&logoColor=white"/>
+</a>
+
+    <!-- AR -->
+<a href="https://en.wikipedia.org/wiki/Augmented_reality" target="_blank">
+    <img src="https://img.shields.io/badge/Augmented_Reality-FF6F00?style=for-the-badge&logo=google-ar&logoColor=white"/>
     </a>
 </p>
 
