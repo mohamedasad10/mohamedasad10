@@ -14,8 +14,19 @@ PORTFOLIO WEBSITE LINK: https://mohamedasad10.github.io/portfolioWebsite/
 
 ### Honours Project: 
 
-- SmartCity AR: Augmented Reality Urban Planning Visualization
-Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
+- **SmartCity AR: Augmented Reality Urban Planning Visualization**  
+  Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
+
+### 📘 Barry Boehm's Software Engineering Lessons
+
+Insights from the father of software engineering, Barry Boehm, that guide my software development process:
+
+1. 🎯 **Theory W – Win-Win Thinking**: Align solutions so all stakeholders benefit.  
+2. 🔁 **Model Integration**: Merge different viewpoints (product, process, property, success) for better alignment.  
+3. 📈 **Iterative Development**: Build incrementally to reduce risk and improve stakeholder understanding.  
+4. 💰 **Cost-Effective Solutions**: A solution that’s too expensive isn’t a solution — use cost-benefit analysis wisely.  
+5. 🧠 **Problem-Driven Approach**: Focus on solving real-world problems, not blindly following methods.  
+6. ⚠️ **Embrace Uncertainty**: Use models to quantify and reduce project risks early (e.g., Cone of Uncertainty).
 
 ---
 
@@ -92,15 +103,9 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     </a>
 </p>
 
-
----
-
-
-
 ---
 
 ### 🎯 What I'm Working On  
-- 🚀 **Building a full-stack banking app**  
 - 🔥 **Creating an AR/VR urban planning viewer for my Honours Theses Project**  
 - 🎮 **Developing a game in Unity**  
 
@@ -119,4 +124,3 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
 <p align="center">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
 </p>
-
