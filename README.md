@@ -142,9 +142,9 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
 <!-- VR -->
 <a href="https://en.wikipedia.org/wiki/Virtual_reality" target="_blank">
     <img src="https://img.shields.io/badge/Virtual_Reality-0A0A0A?style=for-the-badge&logo=oculus&logoColor=white"/>
-</a>
+    </a>
 
-        <!-- AR -->
+        
 <a href="https://en.wikipedia.org/wiki/Augmented_reality" target="_blank">
     <img src="https://img.shields.io/badge/Augmented_Reality-FF6F00?style=for-the-badge&logo=google-ar&logoColor=white"/>
     </a>
