@@ -14,19 +14,8 @@ PORTFOLIO WEBSITE LINK: https://mohamedasad10.github.io/portfolioWebsite/
 
 ### Honours Project: 
 
-- **SmartCity AR: Augmented Reality Urban Planning Visualization**  
-  Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
-
-### 📘 Barry Boehm's Software Engineering Lessons
-
-Insights from the father of software engineering, Barry Boehm, that guide my software development process:
-
-1. 🎯 **Theory W – Win-Win Thinking**: Align solutions so all stakeholders benefit.  
-2. 🔁 **Model Integration**: Merge different viewpoints (product, process, property, success) for better alignment.  
-3. 📈 **Iterative Development**: Build incrementally to reduce risk and improve stakeholder understanding.  
-4. 💰 **Cost-Effective Solutions**: A solution that’s too expensive isn’t a solution — use cost-benefit analysis wisely.  
-5. 🧠 **Problem-Driven Approach**: Focus on solving real-world problems, not blindly following methods.  
-6. ⚠️ **Embrace Uncertainty**: Use models to quantify and reduce project risks early (e.g., Cone of Uncertainty).
+- SmartCity AR: Augmented Reality Urban Planning Visualization
+Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
 
 ---
 
@@ -102,6 +91,35 @@ Insights from the father of software engineering, Barry Boehm, that guide my sof
         <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
     </a>
 </p>
+
+#### **Additional Skills**
+<p align="left">
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </a>
+</p>
+
+---
+
+
 
 ---
 
