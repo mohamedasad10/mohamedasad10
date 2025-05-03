@@ -52,6 +52,9 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     <a href="https://www.w3.org/TR/CSS/" target="_blank">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    </a>
 </p>
 
 #### **Databases & Backend**
