@@ -14,17 +14,8 @@ PORTFOLIO WEBSITE LINK: https://mohamedasad10.github.io/portfolioWebsite/
 
 ### Honours Project: 
 
-- SmartCity AR: Augmented Reality Urban Planning Visualization
+SmartCity AR: Augmented Reality Urban Planning Visualization
 Developing an AR application using Unity and AR Foundation to simulate and compare sustainable vs. unsustainable urban development scenarios. The project focuses on Cape Town’s Foreshore Freeway Precinct, enabling interactive visualization of transport infrastructure, land use, and pedestrian flow. Key features include layered infrastructure toggles, low-poly 3D models for performance optimization, and UI/UX tailored for educational and planning stakeholders, being developed by following the Software Development Life Cycle (SDLC).
-
----
-
-### 🔗 Connect with Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/mabandarkar/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
 
 ---
 
@@ -165,17 +156,17 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
 - 🎮 **Developing a game in Unity**  
 
 ---
-
-### 🚀 Let's Connect!  
-📧 **Email:** mohamedasad11914@gmail.com  
-💼 **LinkedIn:** [mabandarkar](https://www.linkedin.com/in/mabandarkar/)  
-
----
-
-⭐ **Fun Fact:** I love **any kind of sport** and tech! Let's talk **software engineering & gaming** ⚽💻  
-
----
-
-<p align="center">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="500"/>
+### 🔗 Connect with Me
+<p align="left">
+    <a href="https://www.linkedin.com/in/mabandarkar/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </p>
+
+📧 **Email:** mohamedasad11914@gmail.com
+
+---
+
+⭐ **Fun Fact:** I love **sport** and tech! ⚽💻  
+
+
