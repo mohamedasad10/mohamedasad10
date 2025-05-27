@@ -136,6 +136,11 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </a>
 
+<!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+</a>
+
 <!-- Photopea -->
 <a href="https://www.photopea.com/" target="_blank">
     <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white"/>
