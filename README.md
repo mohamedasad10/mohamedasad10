@@ -166,7 +166,8 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
 
 ### 🎯 What I'm Working On  
 - 🔥 **Creating an AR/VR urban planning viewer for my Honours Theses Project**  
-- 🎮 **Developing a game in Unity**  
+- 🎮 **Developing a game in Unity**
+-  **Developing a FullStack Application**
 
 ---
 ### 🔗 Connect with Me
