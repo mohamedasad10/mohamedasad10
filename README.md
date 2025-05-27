@@ -3,7 +3,10 @@
 
 ---
 
-PORTFOLIO WEBSITE LINK: https://mohamedasad10.github.io/portfolioWebsite/ 
+<a href="https://mohamedasad10.github.io/portfolioWebsite/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge" alt="Portfolio Link">
+</a>
+
 
 ### 🌟 About Me
 - 🎓 **BSc Honours Computer Science Candidate** at the **University of the Western Cape**  
