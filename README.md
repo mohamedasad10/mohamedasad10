@@ -13,7 +13,6 @@
 - 💻 Passionate about **Software Engineering & Full-Stack Development**  
 - 🏗️ Building **innovative projects** to **solve real-world problems**  
 - 🚀 Open to **exciting opportunities** in **Software Engineering & Development**  
-- 📩 Reach me at **mohamedasad11914@gmail.com**
 
 ### Honours Project: 
 
@@ -177,7 +176,10 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
     </a>
 </p>
 
-📧 **Email:** mohamedasad11914@gmail.com
+<a href="mailto:mohamedasad11914@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-mohamedasad11914@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
 
 ---
 
