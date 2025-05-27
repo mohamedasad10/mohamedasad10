@@ -4,7 +4,7 @@
 ---
 
 <a href="https://mohamedasad10.github.io/portfolioWebsite/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge" alt="Portfolio Link">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge" alt="Portfolio Website Link">
 </a>
 
 
@@ -129,6 +129,11 @@ Developing an AR application using Unity and AR Foundation to simulate and compa
 <!-- 3ds Max -->
 <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
     <img src="https://img.shields.io/badge/3ds_Max-0176C3?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</a>
+
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </a>
 
 <!-- Photopea -->
